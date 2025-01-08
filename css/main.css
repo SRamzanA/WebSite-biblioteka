@@ -29,7 +29,7 @@ body {
 .header__text-container {
     position: relative;
     padding-left: 5vw;
-    padding-top: 10vw;
+    padding-top: 17vh;
     color: #fff;
 }
 
@@ -236,19 +236,20 @@ body {
 .footer__content {
     display: flex;
     flex-direction: column;
-    display: flex;
     justify-content: center;
 }
 
 .footer__content > a {
     margin: 1vw;
     text-decoration: none;
+    font-size: 1.1vw;
 }
 
 .copyright {
     color: grey;
     margin-bottom: 2vw;
     width: 80%;
+    font-size: 1.1vw;
 }
 
 
