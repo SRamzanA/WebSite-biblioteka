@@ -243,6 +243,12 @@ body {
     margin: 1vw;
     text-decoration: none;
     font-size: 1.1vw;
+    color: #ffffff;
+    transition: 0.3s;
+}
+
+.footer__content > a:hover {
+    color: #98cafb;
 }
 
 .copyright {
